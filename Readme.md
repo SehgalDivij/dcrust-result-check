@@ -33,8 +33,8 @@ Requirement already satisfied: beautifulsoup4 in c:\python34\lib\site-packages
 Requirement already satisfied: requests in c:\python34\lib\site-packages
 Enter info when asked to properly setup university Result Checker. False inputs may lead to unexpected results.
 Make sure you enter the correct information for proper results.
-Enter University Roll Number:13007001017
-University Account Password: wZO6y0NG
+Enter University Roll Number:XXXXXXXXXX
+University Account Password: <password>
 Enter Email Account to send alert from and receive alert to:
 This stays within the application only. It is never shared;  View the source code on GitHub for more info.
 Enter Gmail Email ID: abc@gmail.com
